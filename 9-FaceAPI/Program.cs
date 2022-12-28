@@ -19,7 +19,8 @@ namespace _9_FaceAPI
 
         // Used for all examples.
         // URL for the images.
-        const string IMAGE_BASE_URL = "https://csdx.blob.core.windows.net/resources/Face/Images/";
+        // const string IMAGE_BASE_URL = "https://csdx.blob.core.windows.net/resources/Face/Images/";
+	const string IMAGE_BASE_URL = "https://raw.githubusercontent.com/Azure-Samples/cognitive-services-sample-data-files/master/Face/images/";
 
         static void Main(string[] args)
         {
